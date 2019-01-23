@@ -5,18 +5,19 @@
   <meta name="viewport" content="width=device-width">
   <title>Chocolate Cake in a Mug</title>
   </h1></head>
-  <body><i>Enjoy a quick dessert in minutes!</i>
+  <body><p><i>Enjoy a quick dessert in minutes!</p></i>
+    <p>Prep Time: 5 min // Cook Time: 2 min // Total Time: 7 min</p>
     <p><h3>What You'll Need:</h3></p>
   <ul>
-    <li>1/4 cup all-purpose flour</li>
-    <li>1/4 cup white sugar</li>
+    <li>&frac14; cup all-purpose flour</li>
+    <li>&frac14; cup white sugar</li>
     <li>2 tbs unsweetened cocoa powder</li>
-    <li>1/8 tsp salt</li>
-    <li>1/8 tsp baking soda</li>
+    <li>&frac18; tsp salt</li>
+    <li>&frac18; tsp baking soda</li>
     <li>3 tbs milk</li>
     <li>2 tbs canola oil</li>
     <li>1 tbs water</li>
-    <li>1/4 tsp vanilla extract</li>
+    <li>&frac14; tsp vanilla extract</li>
     <li>1 scoop vanilla ice cream (optional)</li>
   </ul>
   <p><h3>Directions:</h3></p>
