@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head><h1>Chocolate Cake in a Mug Recipe
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Chocolate Cake in a Mug</title>
+  </h1></head>
+  <body><i>Enjoy a quick dessert in minutes!</i>
+    <p><h3>What You'll Need:</h3></p>
+  <ul>
+    <li>1/4 cup all-purpose flour</li>
+    <li>1/4 cup white sugar</li>
+    <li>2 tbs unsweetened cocoa powder</li>
+    <li>1/8 tsp salt</li>
+    <li>1/8 tsp baking soda</li>
+    <li>3 tbs milk</li>
+    <li>2 tbs canola oil</li>
+    <li>1 tbs water</li>
+    <li>1/4 tsp vanilla extract</li>
+    <li>1 scoop vanilla ice cream (optional)</li>
+  </ul>
+  <p><h3>Directions:</h3></p>
+  <ol>
+      <li>In a microwave-safe mug, combine flour, sugar, cocoa powder, baking soda and salt; mix until evenly incorporated.</li>
+      <li>Add in milk, canola oil, water, and vanilla extract into dry mixture; mix until evenly incorporated.</li>
+      <li>Cook batter in microwave for 1 min 45 sec at 1000 watts or until cake is done in the middle.</li>
+      <li>Let cake cool for 3 min.</li>
+    <li>Add vanilla ice cream if desired; enjoy in mug!</li>
+</ol>
+<img src="https://images.media-allrecipes.com/userphotos/720x405/5830514.jpg" alt="chocolatecakeinmug"/>
+
+</body>
+</html>
