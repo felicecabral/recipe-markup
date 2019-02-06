@@ -42,6 +42,7 @@ main{
   padding: 2em;
   border: 5px ridge white;
   margin: 5em 10em 5em;
+  width: auto;
 
 }
 p{
